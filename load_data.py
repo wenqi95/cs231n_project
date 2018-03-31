@@ -227,5 +227,5 @@ class Download_Video(object):
 
         with open('id_caption_dict.pickle', 'rb') as handle:
             b = pickle.load(handle)
-        print len(b.keys())
+        print (len(b.keys()))
 
