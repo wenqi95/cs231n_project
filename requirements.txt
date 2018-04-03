@@ -50,5 +50,3 @@ tornado==4.3
 tqdm==4.11.2
 traitlets==4.0.0
 pandas==0.19.2
-tensorflow-gpu
-keras==2.0.4
